@@ -1,5 +1,10 @@
 # LockPattern
 
+感谢sym90028
+本代码在  sym900728/LockPattern 基础上修改。
+
+本工程做了简单的修改，方便使用。
+
 ## Description
 
 Imitate Alipay gesture password
@@ -13,7 +18,6 @@ Imitate Alipay gesture password
 
 ## Features
 
-* 使用了 JakeWharton/butterknife [butterknife](https://github.com/JakeWharton/butterknife)
 
 * 使用了 ACache 来存储手势密码
 
@@ -94,7 +98,7 @@ public void setInStealthMode(boolean inStealthMode) {
 
 ## Contact
 
-如果你有什么问题, 或者什么建议, 可以发邮件给我.  
+如果你有什么问题, 或者什么建议, 可以发邮件给我.
 Email address: symwork@163.com
 
 ## LICENSE
